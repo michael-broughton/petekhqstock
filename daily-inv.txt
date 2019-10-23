@@ -5295,7 +5295,7 @@ QUANTITY                                ,PRODUCT_ID ,LOCATION_ID,BARCODE        
                                    .0000,-2147441348,001        ,7630000280145       ,080091025-0201      ,KAMPANYA DEPO                                               
                                    .0000,-2147441348,002        ,7630000280145       ,080091025-0201      ,MAMUL DEPO                                                  
                                    .0000,-2147441348,010        ,7630000280145       ,080091025-0201      ,UKRAYNA DEPO                                                
-                                  1.0000,-2147441347,001        ,7630000280152       ,080091025-0203      ,KAMPANYA DEPO                                               
+                                  6.0000,-2147441347,001        ,7630000280152       ,080091025-0203      ,KAMPANYA DEPO                                               
                                    .0000,-2147441347,002        ,7630000280152       ,080091025-0203      ,MAMUL DEPO                                                  
                                    .0000,-2147441347,010        ,7630000280152       ,080091025-0203      ,UKRAYNA DEPO                                                
                                   8.0000,-2147441346,001        ,7630000280169       ,080091025-0208      ,KAMPANYA DEPO                                               
@@ -8920,17 +8920,47 @@ QUANTITY                                ,PRODUCT_ID ,LOCATION_ID,BARCODE        
                                    .0000,-2147414038,127        ,7630000483881       ,MB21764AZ49NJ38     ,Mulberry                                                    
                                    .0000,-2147414028,127        ,7630000483980       ,MB0RX005093901      ,Mulberry                                                    
                                    .0000,-2147414025,127        ,7630000484017       ,MB26150F2W6301      ,Mulberry                                                    
+                                   .0000,-2147414014,124        ,NULL                ,HK30013AAALN01      ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147414013,124        ,NULL                ,HK30013AAALNA11     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147414012,124        ,NULL                ,HK30013AAALNA30     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147414011,124        ,NULL                ,HK30013AAALNC15     ,HIDE KASUKA DEPO                                            
                                    .0000,-2147414010,124        ,NULL                ,HK30013AAALNC28     ,HIDE KASUKA DEPO                                            
                                    .0000,-2147414005,124        ,NULL                ,HK30014AAALNC28     ,HIDE KASUKA DEPO                                            
                                    .0000,-2147414000,133        ,7630000484130       ,AS021357W70NF98     ,ASPINAL                                                     
                                    .0000,-2147413999,133        ,7630000484154       ,AS021882W70NF98     ,ASPINAL                                                     
                                    .0000,-2147413993,124        ,NULL                ,HK30027AAALAC28     ,HIDE KASUKA DEPO                                            
                                    .0000,-2147413987,124        ,NULL                ,HK30028AALLAC28     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413986,124        ,NULL                ,HK30041AAALN01      ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413985,124        ,NULL                ,HK30041AAALNA11     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413984,124        ,NULL                ,HK30041AAALNA30     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413983,124        ,NULL                ,HK30041AAALNC15     ,HIDE KASUKA DEPO                                            
                                    .0000,-2147413982,124        ,NULL                ,HK30041AAALNC28     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413981,124        ,NULL                ,HK030069AALA01      ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413978,124        ,NULL                ,HK030069AALAA11     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413977,124        ,NULL                ,HK030069AALAA30     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413976,124        ,NULL                ,HK030069AALAC15     ,HIDE KASUKA DEPO                                            
                                    .0000,-2147413975,124        ,NULL                ,HK030069AALAC28     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413974,124        ,NULL                ,HK030071AALA01      ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413973,124        ,NULL                ,HK030071AALAA11     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413972,124        ,NULL                ,HK030071AALAA30     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413971,124        ,NULL                ,HK030071AALAC15     ,HIDE KASUKA DEPO                                            
                                    .0000,-2147413970,124        ,NULL                ,HK030071AALAC28     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413969,124        ,NULL                ,HK030072AALA01      ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413968,124        ,NULL                ,HK030072AALAA11     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413967,124        ,NULL                ,HK030072AALAA30     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413966,124        ,NULL                ,HK030072AALAC15     ,HIDE KASUKA DEPO                                            
                                    .0000,-2147413965,124        ,NULL                ,HK030072AALAC28     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413964,124        ,NULL                ,HK030086ALLA01      ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413963,124        ,NULL                ,HK030086ALLAA11     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413962,124        ,NULL                ,HK030086ALLAA30     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413961,124        ,NULL                ,HK030086ALLAC15     ,HIDE KASUKA DEPO                                            
                                    .0000,-2147413960,124        ,NULL                ,HK030086ALLAC28     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413958,124        ,NULL                ,HK30076AZ44AA30     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413957,124        ,NULL                ,HK30076AZ44AC15     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413956,124        ,NULL                ,HK30076AZ44AC28     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413954,124        ,NULL                ,HK30077AZ44AA30     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413953,124        ,NULL                ,HK30077AZ44AC15     ,HIDE KASUKA DEPO                                            
+                                   .0000,-2147413952,124        ,NULL                ,HK30077AZ44AC28     ,HIDE KASUKA DEPO                                            
                                    .0000,-2147413932,009        ,7630000484208       ,06046D00050814      ,PETEK RUSS                                                  
                                    .0000,-2147413931,009        ,7630000484215       ,06046D00050864      ,PETEK RUSS                                                  
                                    .0000,-2147413930,009        ,7630000484222       ,06046D00050888      ,PETEK RUSS                                                  
@@ -8974,4 +9004,4 @@ QUANTITY                                ,PRODUCT_ID ,LOCATION_ID,BARCODE        
                                    .0000,-2147413771,055        ,NULL                ,HM075063805A20      ,H&M                                                         
                                    .0000,-2147413769,055        ,NULL                ,HM026252840399      ,H&M                                                         
 
-(8973 rows affected)
+(9003 rows affected)
