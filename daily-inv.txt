@@ -4010,6 +4010,10 @@ QUANTITY                                ,PRODUCT_ID ,LOCATION_ID,BARCODE        
                                2270.0000,-2147413127,035        ,7630000491275       ,MD021796ACANC14     ,MD PRODUCTION                                               
                                    .0000,-2147413125,035        ,7630000491282       ,MD021799ACAJC14     ,MD PRODUCTION                                               
                                    .0000,-2147413063,001        ,7630000490315       ,04046B00355K10      ,KAMPANYA DEPO                                               
+                                   .0000,-2147413052,139        ,7630000491459       ,ML026282ABVEMY9     ,MLOUYE                                                      
+                                   .0000,-2147413050,139        ,7630000491442       ,ML026282ABVAMY8     ,MLOUYE                                                      
+                                   .0000,-2147413048,139        ,7630000491466       ,ML026282ABYAM15     ,MLOUYE                                                      
+                                   .0000,-2147413046,139        ,7630000491473       ,ML026282ACCAM12     ,MLOUYE                                                      
                                    .0000,-2147413045,017        ,7630000490414       ,BF20938B214N76      ,ÖZEL ISLER DEPOSU                                           
                                    .0000,-2147413044,035        ,7630000491305       ,MD023075174J08      ,MD PRODUCTION                                               
                                    .0000,-2147413043,009        ,7630000490421       ,PT000602155A24      ,PETEK RUSS                                                  
@@ -4028,4 +4032,4 @@ QUANTITY                                ,PRODUCT_ID ,LOCATION_ID,BARCODE        
                                    .0000,-2147412615,139        ,NULL                ,ML026247ACGFMY5     ,MLOUYE                                                      
                                    .0000,-2147412466,083        ,7630000493392       ,040Y33000346D96     ,MUSTERI 3                                                   
 
-(4027 rows affected)
+(4031 rows affected)
