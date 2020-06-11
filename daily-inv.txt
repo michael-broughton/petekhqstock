@@ -2905,7 +2905,7 @@ QUANTITY                                ,PRODUCT_ID ,LOCATION_ID,BARCODE        
                                   1.0000,-2147429643,008        ,7630000362117       ,PM030028X14A01      ,SHOWROOM                                                    
                                  14.0000,-2147429423,005        ,7630000363770       ,080000359004B85     ,KAZAKISTAN DEPO                                             
                                    .0000,-2147429423,083        ,7630000363770       ,080000359004B85     ,MUSTERI 3                                                   
-                                  2.0000,-2147429356,002        ,7630000364241       ,030041000169A31     ,MAMUL DEPO                                                  
+                                  1.0000,-2147429356,002        ,7630000364241       ,030041000169A31     ,MAMUL DEPO                                                  
                                   5.0000,-2147429346,005        ,7630000364319       ,030041000184A31     ,KAZAKISTAN DEPO                                             
                                    .0000,-2147429326,002        ,7630000364456       ,030041000226A31     ,MAMUL DEPO                                                  
                                    .0000,-2147429326,083        ,7630000364456       ,030041000226A31     ,MUSTERI 3                                                   
@@ -3912,6 +3912,7 @@ QUANTITY                                ,PRODUCT_ID ,LOCATION_ID,BARCODE        
                                    .0000,-2147413517,035        ,7630000488992       ,MDPL1488PRYA88      ,MD PRODUCTION                                               
                                    .0000,-2147413511,035        ,7630000488985       ,MD21818APRYA88      ,MD PRODUCTION                                               
                                    .0000,-2147413510,035        ,7630000488961       ,MD021849174N01      ,MD PRODUCTION                                               
+                                   .0000,-2147413497,139        ,7630000489029       ,ML021817ABLAMY2     ,MLOUYE                                                      
                                    .0000,-2147413495,139        ,7630000489036       ,ML021817ABMAMY1     ,MLOUYE                                                      
                                    .0000,-2147413485,017        ,7630000487742       ,BF020938214N65      ,ÖZEL ISLER DEPOSU                                           
                                    .0000,-2147413483,017        ,7630000487759       ,BF20938BPRYN01      ,ÖZEL ISLER DEPOSU                                           
@@ -4028,7 +4029,9 @@ QUANTITY                                ,PRODUCT_ID ,LOCATION_ID,BARCODE        
                                   3.0000,-2147413033,081        ,7630000490506       ,040245000433C50     ,MUSTERI 1                                                   
                                  10.0000,-2147413017,081        ,7630000490568       ,060000000518KD1     ,MUSTERI 1                                                   
                                    .0000,-2147412987,139        ,NULL                ,ML021817ABCA01      ,MLOUYE                                                      
+                                   .0000,-2147412985,139        ,NULL                ,ML021817ABC4M16     ,MLOUYE                                                      
                                    .0000,-2147412983,139        ,NULL                ,ML021817ABCAMY2     ,MLOUYE                                                      
+                                   .0000,-2147412979,139        ,NULL                ,ML021817J404M18     ,MLOUYE                                                      
                                    .0000,-2147412972,139        ,NULL                ,ML026287ACDAM19     ,MLOUYE                                                      
                                    .0000,-2147412970,139        ,NULL                ,ML026287ABYAMY8     ,MLOUYE                                                      
                                    .0000,-2147412969,139        ,NULL                ,ML026287ABYAM20     ,MLOUYE                                                      
@@ -4043,5 +4046,8 @@ QUANTITY                                ,PRODUCT_ID ,LOCATION_ID,BARCODE        
                                    .0000,-2147412460,139        ,NULL                ,ML026192ACHFMY8     ,MLOUYE                                                      
                                    .0000,-2147412458,139        ,NULL                ,ML026192ACIFMY9     ,MLOUYE                                                      
                                    .0000,-2147412455,139        ,NULL                ,ML026192ACJFM21     ,MLOUYE                                                      
+                                   .0000,-2147412431,139        ,NULL                ,ML026247ACGEMY5     ,MLOUYE                                                      
+                                   .0000,-2147412430,139        ,NULL                ,ML026247Y40EM10     ,MLOUYE                                                      
+                                   .0000,-2147412428,139        ,NULL                ,ML026247ACLEM22     ,MLOUYE                                                      
 
-(4043 rows affected)
+(4049 rows affected)
