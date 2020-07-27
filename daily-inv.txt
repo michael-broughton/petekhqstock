@@ -4198,9 +4198,11 @@ QUANTITY                                ,PRODUCT_ID ,LOCATION_ID,BARCODE        
                                    .0000,-2147412420,139        ,NULL                ,ML26147AACNAMY2     ,MLOUYE                                                      
                                    .0000,-2147412416,139        ,NULL                ,ML26147AABVAM13     ,MLOUYE                                                      
                                    .0000,-2147412414,139        ,NULL                ,ML26147AACEAM16     ,MLOUYE                                                      
+                                   .0000,-2147412410,139        ,NULL                ,ML026282ACEEM24     ,MLOUYE                                                      
+                                   .0000,-2147412408,139        ,NULL                ,ML026282ACMEM10     ,MLOUYE                                                      
                                    .0000,-2147412406,139        ,NULL                ,ML021809ACUDM10     ,MLOUYE                                                      
                                    .0000,-2147412404,139        ,NULL                ,ML021809ACPDM17     ,MLOUYE                                                      
                                    .0000,-2147412402,139        ,NULL                ,ML021809ACUDM16     ,MLOUYE                                                      
                                    .0000,-2147412401,002        ,7630000493408       ,04046B00041001      ,MAMUL DEPO                                                  
 
-(4202 rows affected)
+(4204 rows affected)
